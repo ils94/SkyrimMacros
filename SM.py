@@ -13,7 +13,7 @@ keyboard.register_hotkey("+", meleeTrainingDummy.turn_on_off)
 
 print("""Skyrim Macro is up and running!
 
-Press * to start the Crafting Macro.
+Press * to start the Crafting Helper.
 Press - to start the Ranged Training Dummy Macro.
 Press + to start the Melee Training Dummy Macro.
 
