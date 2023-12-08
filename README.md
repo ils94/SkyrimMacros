@@ -16,7 +16,9 @@ When activated, the script will press "E" and "Left Mouse" to quickly craft item
 
 **Enchanting Helper**
 
-When activated, the script will do a key sequence to select an item, select an enchantment and select a soul gem, then press R and click YES to enchant, then go all back to select a new item. This will only work when using [SkyUI mod.]([https://www.nexusmods.com/skyrim/mods/23698](https://www.nexusmods.com/skyrim/mods/3863))
+When activated, the script will do a key sequence to select an item, select an enchantment and select a soul gem, then press R and click YES to enchant, then go all back to select a new item. This will only work when using [SkyUI mod](https://www.nexusmods.com/skyrim/mods/3863)
+
+Before using the Enchanting Helper, you will have to first manually enchant an item, so you can position your mouse where the YES button is to confirm the enchant, then, just use your A and D keys to navigate back to the tab where you select your item to enchant and press "-" to start.
 
 **Ranged Training Dummy Macro**
 
