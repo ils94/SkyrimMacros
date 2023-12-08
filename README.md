@@ -1,5 +1,5 @@
 # SkyrimMacros
-Simple Python program featuring macros for use in Skyrim.
+Simple Python program featuring macros for Skyrim.
 
 # How to use
 
