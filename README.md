@@ -4,14 +4,19 @@ Simple Python program featuring macros for use in Skyrim.
 # How to use
 
 - Press * to start the Crafting Helper.
-- Press - to start the Ranged Training Dummy Macro.
-- Press + to start the Melee Training Dummy Macro.
+- Press - to start the Enchanting Helper.
+- Press + to start the Ranged Training Dummy Macro.
+- Press . to start the Melee Training Dummy Macro.
 
 You can change your Bow Drawing time in the "bow_drawing.txt" file, default value is 1.5.
 
 **Crafting Helper**
 
 When activated, the script will press "E" and "Left Mouse" to quickly craft items.
+
+**Enchanting Helper**
+
+When activated, the script will do a key sequence to select an item, select an enchantment and select a soul gem, then press R and click YES to enchant, then go all back to select a new item. This will only work when using [SkyUI mod.]([https://www.nexusmods.com/skyrim/mods/23698](https://www.nexusmods.com/skyrim/mods/3863))
 
 **Ranged Training Dummy Macro**
 
